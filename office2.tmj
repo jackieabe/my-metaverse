@@ -658,7 +658,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.wikipedia.org\/"
+                         "value":"https:\/\/www.openstreetmap.org\/"
+                        }, 
+                        {
+                         "name":"openWebsiteAllowApi",
+                         "type":"bool",
+                         "value":true
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -674,7 +679,7 @@
                  "type":"",
                  "visible":true,
                  "width":132,
-                 "x":436,
+                 "x":437.333333333333,
                  "y":333.333333333333
                 }, 
                 {
@@ -738,11 +743,6 @@
          "name":"mapName",
          "type":"string",
          "value":"Office"
-        }, 
-        {
-         "name":"script",
-         "type":"string",
-         "value":"src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
