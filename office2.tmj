@@ -644,9 +644,63 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":68,
+         "name":"Interactions",
+         "objects":[
+                {
+                 "height":25.3333333333333,
+                 "id":20,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":33.3333333333333,
+                 "x":604,
+                 "y":341.333333333333
+                }, 
+                {
+                 "height":18.84375,
+                 "id":22,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/abesensei.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"on-click"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"40%"
+                        }],
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hello World",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":80.234375,
+                 "x":494.549479166667,
+                 "y":310.578125
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":20,
+ "nextlayerid":69,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
