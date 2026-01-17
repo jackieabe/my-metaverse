@@ -654,12 +654,28 @@
                  "height":25.3333333333333,
                  "id":20,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/abesensei.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"on-entry"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"string",
+                         "value":"30%"
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":33.3333333333333,
-                 "x":604,
-                 "y":341.333333333333
+                 "x":476,
+                 "y":357.333333333333
                 }, 
                 {
                  "height":18.84375,
@@ -684,12 +700,12 @@
                  "rotation":0,
                  "text":
                     {
-                     "text":"Hello World",
+                     "text":"\u3053\u3053\u3092\u30af\u30ea\u30c3\u30af",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
-                 "width":80.234375,
+                 "width":113.567708333333,
                  "x":494.549479166667,
                  "y":310.578125
                 }],
