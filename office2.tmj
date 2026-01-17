@@ -579,7 +579,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                         "value":"https:\/\/www.youtube.com\/embed\/zSzNUBnFvaQ"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
