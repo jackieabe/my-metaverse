@@ -469,19 +469,41 @@
                  "width":32,
                  "x":64,
                  "y":544
+                }, 
+                {
+                 "height":99.3333333333333,
+                 "id":23,
+                 "name":"web",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/abesensei.com\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open a custom website"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":128,
+                 "x":464.666666666667,
+                 "y":333.333333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":64,
-         "layers":[],
-         "name":"url",
-         "opacity":1,
-         "type":"group",
          "visible":true,
          "x":0,
          "y":0
@@ -559,52 +581,9 @@
          "visible":true,
          "x":0,
          "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":68,
-         "name":"Interactions",
-         "objects":[
-                {
-                 "height":66.6666666666667,
-                 "id":20,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.openstreetmap.org\/"
-                        }, 
-                        {
-                         "name":"openWebsiteAllowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"on-enter"
-                        }, 
-                        {
-                         "name":"openWebsiteWidth",
-                         "type":"string",
-                         "value":"30%"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":132,
-                 "x":437.333333333333,
-                 "y":333.333333333333
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":23,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
