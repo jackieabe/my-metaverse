@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office2.tmj#from-conference"
+                         "value":"NihongoTeachersOffice#from-ConferenceCampus"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -336,7 +336,7 @@
                 {
                  "height":32,
                  "id":23,
-                 "name":"from-office",
+                 "name":"from-NihongoTeachersOffice",
                  "properties":[
                         {
                          "name":"start",
