@@ -476,7 +476,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"ConferenceCampus\uff03NihongoTeachersOffice"
+                         "value":"https:\/\/play.workadventu.re\/@\/abe-sensei\/abe-sensei\/nihongo-teacher-s-conference-room\uff03NihongoTeachersOffice"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -488,7 +488,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-ConferenceCampus",
+                 "name":"from-nihongo-teacher-s-conference-room",
                  "properties":[
                         {
                          "name":"start",
