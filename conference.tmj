@@ -319,12 +319,12 @@
                 {
                  "height":96,
                  "id":22,
-                 "name":"to-office",
+                 "name":"to-NihongoTeachersOffice",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"NihongoTeachersOffice#from-ConferenceCampus"
+                         "value":"https:\/\/play.workadventu.re\/@\/abe-sensei\/abe-sensei\/nihongo-teacher-s-office#from-conference"
                         }],
                  "rotation":0,
                  "type":"area",
